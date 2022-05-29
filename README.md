@@ -1,1 +1,1 @@
-# purple.shop
+# rare.goods.store
